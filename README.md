@@ -16,6 +16,8 @@
 
 :page_facing_up:   Best tech blog: Hackernoon.
 
+:tv:   Currently watching: House of the dragon
+
 <h2> 📈 GitHub Stats </h2>
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Z&show_icons=true&theme=dark)
