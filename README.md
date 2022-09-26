@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-🔭   I’m currently working on my personal blog
+🔭   I’m currently working on my personal blog.
 
-🌱   Learning all about Cyber-Security
+🌱   Learning all about Cyber-Security.
 
 📰   Reading tech blogs whenever possible.
 
-:headphones:   Favorite podcast: DARKNET DIARIES
+:headphones:   Favorite podcast: DARKNET DIARIES.
 
-:man:   Favorite philosopher: Arthur Schopenhauer / Friedrich Nietzsche
+:man:   Favorite philosopher: Arthur Schopenhauer / Friedrich Nietzsche.
 
-:page_facing_up:   Best tech blog: Hackernoon
+:page_facing_up:   Best tech blog: Hackernoon.
 <!--
 **Ahmed-Z/Ahmed-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
