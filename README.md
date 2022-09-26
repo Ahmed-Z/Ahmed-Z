@@ -1,6 +1,5 @@
 
->“A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free.”
-― Arthur Schopenhauer
+>“A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free.” <br/> ― Arthur Schopenhauer
 
 ### Hi there 👋
 
@@ -9,6 +8,8 @@
 🌱   Learning all about Cyber-Security.
 
 📰   Reading tech blogs whenever possible.
+
+:computer:   Favorite programming language: :snake: Python :snake:
 
 :headphones:   Favorite podcast: DARKNET DIARIES.
 
