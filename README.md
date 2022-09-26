@@ -21,10 +21,6 @@
 
 <h2> 📈 GitHub Stats </h2>
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Z&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Z&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Z&show_icons=true&theme=dark" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Z&layout=compact&theme=dark" />
