@@ -17,7 +17,7 @@
 
 :page_facing_up:   Best tech blog: Hackernoon.
 
-:tv:   Currently watching: The Last Of Us
+:tv:   Currently watching: None
 
 <h2> 📈 GitHub Stats </h2>
 
