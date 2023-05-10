@@ -5,7 +5,7 @@
 
 🔭   I’m currently working on my personal blog.
 
-🌱   Learning all about Cyber-Security.
+🌱   Learning all about Cyber-Security and AI.
 
 📰   Reading tech blogs whenever possible.
 
