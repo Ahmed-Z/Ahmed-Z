@@ -17,7 +17,7 @@
 
 :page_facing_up:   Best tech blog: Hackernoon.
 
-:tv:   Currently watching: Suits
+:tv:   Currently watching: N/A
 
 <h2> 📈 GitHub Stats </h2>
 
